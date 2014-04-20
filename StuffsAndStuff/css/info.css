@@ -1,0 +1,165 @@
+@-ms-viewport
+{
+	width: 640px;
+}
+
+@-webkit-viewport
+{
+	width: 640px;
+}
+
+@-o-viewport
+{
+	width: 640px;
+}
+
+@-moz-viewport
+{
+	width: 640px;
+}
+
+@viewport
+{
+	width: 640px;
+}
+
+.html
+{
+	background-color: #7F7F7F;
+}
+
+#page
+{
+	z-index: 1;
+	width: 640px;
+	min-height: 1129px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: #FFFFFF;
+}
+
+#page_position_content
+{
+	margin-top: 99px;
+	margin-bottom: 71px;
+}
+
+#u3227
+{
+	z-index: 2;
+	width: 640px;
+	position: fixed;
+	top: -1px;
+	left: 0px;
+}
+
+#u4403-77
+{
+	z-index: 4;
+	display: block;
+	vertical-align: top;
+	left: -2px;
+	position: relative;
+}
+
+#u3214-13
+{
+	z-index: 81;
+	display: block;
+	vertical-align: top;
+	left: -1px;
+	margin-top: 33px;
+	position: relative;
+}
+
+#u3190
+{
+	z-index: 94;
+	width: 640px;
+	position: fixed;
+	top: 4011px;
+	left: 0px;
+}
+
+#u4389
+{
+	z-index: 96;
+	width: 50px;
+	position: fixed;
+	top: 4019px;
+	left: 35px;
+}
+
+#u4451
+{
+	z-index: 116;
+	width: 50px;
+	position: fixed;
+	top: 4019px;
+	left: 207px;
+}
+
+#u4396
+{
+	z-index: 110;
+	width: 50px;
+	position: fixed;
+	top: 4019px;
+	left: 379px;
+}
+
+#u4666
+{
+	z-index: 118;
+	width: 50px;
+	position: fixed;
+	top: 4019px;
+	left: 555px;
+}
+
+#u4391-4
+{
+	z-index: 98;
+	display: block;
+	vertical-align: top;
+	position: fixed;
+	top: 4069px;
+	left: 17px;
+}
+
+#u4392-4
+{
+	z-index: 102;
+	display: block;
+	vertical-align: top;
+	position: fixed;
+	top: 4070px;
+	left: 166px;
+}
+
+#u4398-4
+{
+	z-index: 112;
+	display: block;
+	vertical-align: top;
+	position: fixed;
+	top: 4069px;
+	left: 362px;
+}
+
+#u4393-4
+{
+	z-index: 106;
+	display: block;
+	vertical-align: top;
+	position: fixed;
+	top: 4069px;
+	left: 537px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

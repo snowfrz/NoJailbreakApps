@@ -1,0 +1,105 @@
+@-ms-viewport
+{
+	width: 640px;
+}
+
+@-webkit-viewport
+{
+	width: 640px;
+}
+
+@-o-viewport
+{
+	width: 640px;
+}
+
+@-moz-viewport
+{
+	width: 640px;
+}
+
+@viewport
+{
+	width: 640px;
+}
+
+.html
+{
+	background-color: #7F7F7F;
+}
+
+#page
+{
+	z-index: 1;
+	width: 640px;
+	min-height: 1128.9669920479782px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: #FFFFFF;
+	padding-bottom: 0px;
+}
+
+#page_position_content
+{
+	margin-bottom: 429px;
+}
+
+#pu1510
+{
+	width: 0.01px;
+	left: -1px;
+	position: relative;
+}
+
+#u1510
+{
+	z-index: 2;
+	width: 640px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1519-4
+{
+	z-index: 4;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 20px;
+	left: 6px;
+}
+
+#u1512
+{
+	z-index: 8;
+	width: 143px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1514
+{
+	z-index: 10;
+	width: 640px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 51px;
+}
+
+#u1520-13
+{
+	z-index: 12;
+	display: block;
+	vertical-align: top;
+	margin-left: 5px;
+	margin-top: 17px;
+	position: relative;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
