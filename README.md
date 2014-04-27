@@ -8,3 +8,6 @@ If you re-release TNN anywhere, you must give me credit in your code and on the 
 I released this for free, and it would help to make NJA way better if you donated using the link below. The work you would have to do to make it better would be greatly decreased.
 
 http://tinyurl.com/NJADonate
+
+
+Note: The version here may not always be up to date
