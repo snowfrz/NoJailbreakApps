@@ -4,43 +4,45 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="3983832653"/>
-    <file name="index.css" crc="3947660421" ref="index"/>
-    <file name="date.css" crc="322936426" ref="date"/>
-    <file name="gridlee.css" crc="4257013365" ref="gridlee"/>
-    <file name="gba4ios-2_0.css" crc="4224144357" ref="gba4ios-2.0"/>
+    <file name="index.css" crc="3904283775" ref="index"/>
+    <file name="nescaline.css" crc="3805448114" ref="nescaline"/>
+    <file name="idos-patch.css" crc="4216924405" ref="idos-patch"/>
+    <file name="edit-nja.css" crc="38262195" ref="edit-nja"/>
+    <file name="retroarch.css" crc="4270377578" ref="retroarch"/>
     <file name="gearboy.css" crc="4216270311" ref="gearboy"/>
+    <file name="date.css" crc="322936426" ref="date"/>
+    <file name="jailbreak-alt-store.css" crc="535754495" ref="jailbreak-alt-store"/>
+    <file name="gba4ios-2_0.css" crc="4224144357" ref="gba4ios-2.0"/>
+    <file name="info.css" crc="395315520" ref="info"/>
+    <file name="deadapps.css" crc="3779122692" ref="deadapps"/>
+    <file name="nestopia.css" crc="231501816" ref="nestopia"/>
+    <file name="gridlee.css" crc="4257013365" ref="gridlee"/>
+    <file name="iphone-4-links.css" crc="311800604" ref="iphone-4-links"/>
     <file name="date-2014.css" crc="3831363917" ref="date-2014"/>
-    <file name="sios.css" crc="309627899" ref="sios"/>
+    <file name="nds4ios.css" crc="4130276124" ref="nds4ios"/>
     <file name="patch.css" crc="4195531804" ref="patch"/>
+    <file name="sios.css" crc="309627899" ref="sios"/>
+    <file name="hall-of-fame.css" crc="16253462" ref="hall-of-fame"/>
     <file name="gba4ios-1_6.css" crc="3984919837" ref="gba4ios-1.6"/>
     <file name="itransmission.css" crc="356221445" ref="itransmission"/>
     <file name="cloud-player.css" crc="3984848674" ref="cloud-player"/>
     <file name="snes4ios.css" crc="17353918" ref="snes4ios"/>
-    <file name="retroarch.css" crc="4270377578" ref="retroarch"/>
     <file name="idos-date.css" crc="4273357340" ref="idos-date"/>
-    <file name="nescaline.css" crc="3805448114" ref="nescaline"/>
-    <file name="idos-patch.css" crc="4216924405" ref="idos-patch"/>
-    <file name="nds4ios.css" crc="4130276124" ref="nds4ios"/>
-    <file name="deadapps.css" crc="3802787436" ref="deadapps"/>
-    <file name="info.css" crc="395315520" ref="info"/>
-    <file name="jailbreak-alt-store.css" crc="535754495" ref="jailbreak-alt-store"/>
-    <file name="iphone-4-links.css" crc="311800604" ref="iphone-4-links"/>
-    <file name="hall-of-fame.css" crc="16253462" ref="hall-of-fame"/>
-    <file name="nestopia.css" crc="231501816" ref="nestopia"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:retroarch:date:gba4ios-2.0:date-2014:patch:gba4ios-1.6:cloud-player:idos-date:idos-patch:nds4ios:gridlee:gearboy:sios:itransmission:snes4ios:nescaline:jailbreak-alt-store:info:iphone-4-links:deadapps:hall-of-fame:nestopia"/>
-    <file name="museutils.js" crc="3880880085" ref="index:retroarch:date:gba4ios-2.0:date-2014:patch:gba4ios-1.6:cloud-player:idos-date:idos-patch:nds4ios:gridlee:gearboy:sios:itransmission:snes4ios:nescaline:jailbreak-alt-store:info:iphone-4-links:deadapps:hall-of-fame:nestopia"/>
-    <file name="jquery.watch.js" crc="4199601726" ref="index:retroarch:date:gba4ios-2.0:date-2014:patch:gba4ios-1.6:cloud-player:idos-date:idos-patch:nds4ios:gridlee:gearboy:sios:itransmission:snes4ios:nescaline:jailbreak-alt-store:info:iphone-4-links:deadapps:hall-of-fame:nestopia"/>
+    <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:retroarch:date:gba4ios-2.0:date-2014:patch:gba4ios-1.6:cloud-player:idos-date:idos-patch:nds4ios:gridlee:gearboy:sios:itransmission:snes4ios:nescaline:jailbreak-alt-store:info:nestopia:iphone-4-links:deadapps:hall-of-fame:edit-nja"/>
+    <file name="museutils.js" crc="3880880085" ref="index:retroarch:date:gba4ios-2.0:date-2014:patch:gba4ios-1.6:cloud-player:idos-date:idos-patch:nds4ios:gridlee:gearboy:sios:itransmission:snes4ios:nescaline:jailbreak-alt-store:info:nestopia:iphone-4-links:deadapps:hall-of-fame:edit-nja"/>
+    <file name="jquery.watch.js" crc="4199601726" ref="index:retroarch:date:gba4ios-2.0:date-2014:patch:gba4ios-1.6:cloud-player:idos-date:idos-patch:nds4ios:gridlee:gearboy:sios:itransmission:snes4ios:nescaline:jailbreak-alt-store:info:nestopia:iphone-4-links:deadapps:hall-of-fame:edit-nja"/>
     <file name="jquery.scrolleffects.js" crc="56249048" ref="index:jailbreak-alt-store:info:iphone-4-links:deadapps:hall-of-fame"/>
   </folder>
   <folder name="images">
+    <file name="nja top bar.jpg" crc="4199844455" ref="index:jailbreak-alt-store:info:hall-of-fame"/>
     <file name="newnewnjaicon.png" crc="125381256" ref="index:jailbreak-alt-store:hall-of-fame"/>
-    <file name="u361-8.png" crc="4038752478" ref="index"/>
-    <file name="divider.png" crc="4026069397" ref="index:retroarch:date:gba4ios-2.0:date-2014:patch:gba4ios-1.6:cloud-player:idos-date:idos-patch:nds4ios:gridlee:gearboy:sios:itransmission:snes4ios:nescaline:jailbreak-alt-store:deadapps:hall-of-fame:nestopia"/>
+    <file name="u361-7.png" crc="4260459796" ref="index"/>
+    <file name="divider.png" crc="4026069397" ref="index:retroarch:date:gba4ios-2.0:date-2014:patch:gba4ios-1.6:cloud-player:idos-date:idos-patch:nds4ios:gridlee:gearboy:sios:itransmission:snes4ios:nescaline:jailbreak-alt-store:nestopia:deadapps:hall-of-fame:edit-nja"/>
     <file name="oldnja.jpg" crc="147377068" ref="index:jailbreak-alt-store"/>
     <file name="liberetoretroarch.png" crc="3907801294" ref="index:jailbreak-alt-store"/>
-    <file name="free.png" crc="241569531" ref="index:retroarch:gba4ios-2.0:gba4ios-1.6:cloud-player:idos-date:idos-patch:nds4ios:gridlee:gearboy:sios:itransmission:snes4ios:nescaline:jailbreak-alt-store:deadapps:nestopia"/>
+    <file name="free.png" crc="241569531" ref="index:retroarch:gba4ios-2.0:gba4ios-1.6:cloud-player:idos-date:idos-patch:nds4ios:gridlee:gearboy:sios:itransmission:snes4ios:nescaline:jailbreak-alt-store:nestopia:deadapps"/>
     <file name="gba4ios2.png" crc="3858277427" ref="index:jailbreak-alt-store"/>
     <file name="freeplus.png" crc="95652006" ref="index:jailbreak-alt-store"/>
     <file name="gba4ios.png" crc="3989489815" ref="index:jailbreak-alt-store"/>
@@ -54,8 +56,21 @@
     <file name="itransmission.png" crc="4167250020" ref="index:jailbreak-alt-store"/>
     <file name="snes4ios.png" crc="357921479" ref="index:jailbreak-alt-store"/>
     <file name="nescaline.png" crc="454508924" ref="index:jailbreak-alt-store"/>
-    <file name="top bar.jpg" crc="156602501" ref="retroarch:date:gba4ios-2.0:date-2014:patch:gba4ios-1.6:cloud-player:idos-date:idos-patch:nds4ios:gridlee:gearboy:sios:itransmission:snes4ios:nescaline:nestopia"/>
-    <file name="back.png" crc="3916232939" ref="retroarch:date:gba4ios-2.0:date-2014:patch:gba4ios-1.6:cloud-player:idos-date:idos-patch:nds4ios:gridlee:gearboy:sios:itransmission:snes4ios:nescaline:nestopia"/>
+    <file name="iphone4links.jpg" crc="415558212" ref="index:jailbreak-alt-store:iphone-4-links:deadapps:hall-of-fame"/>
+    <file name="minieditnja.jpg" crc="23032096" ref="index"/>
+    <file name="u2817-14.png" crc="4096790635" ref="index"/>
+    <file name="pasted image 1920x1080.jpg" crc="297198655" ref="index"/>
+    <file name="bottom bar.png" crc="165037042" ref="index:jailbreak-alt-store:info:deadapps:hall-of-fame"/>
+    <file name="nojailbreaktab.png" crc="314458484" ref="index:hall-of-fame"/>
+    <file name="deadappstab.png" crc="4269760700" ref="index:jailbreak-alt-store:info:iphone-4-links:hall-of-fame"/>
+    <file name="award tab.png" crc="4185924799" ref="index:info:deadapps:hall-of-fame"/>
+    <file name="infotab.png" crc="3995611941" ref="index:jailbreak-alt-store:iphone-4-links:deadapps:hall-of-fame"/>
+    <file name="u4367-4.png" crc="4236105079" ref="index"/>
+    <file name="u4374-4.png" crc="4057725518" ref="index"/>
+    <file name="u4433-4.png" crc="4042946570" ref="index"/>
+    <file name="u4369-4.png" crc="127856259" ref="index"/>
+    <file name="top bar.jpg" crc="156602501" ref="retroarch:date:gba4ios-2.0:date-2014:patch:gba4ios-1.6:cloud-player:idos-date:idos-patch:nds4ios:gridlee:gearboy:sios:itransmission:snes4ios:nescaline:nestopia:edit-nja"/>
+    <file name="back.png" crc="3916232939" ref="retroarch:date:gba4ios-2.0:date-2014:patch:gba4ios-1.6:cloud-player:idos-date:idos-patch:nds4ios:gridlee:gearboy:sios:itransmission:snes4ios:nescaline:nestopia:edit-nja"/>
     <file name="retroarch icon.png" crc="386094040" ref="retroarch"/>
     <file name="u831-4.png" crc="105209988" ref="retroarch"/>
     <file name="u832-4.png" crc="169560057" ref="retroarch"/>
@@ -64,7 +79,7 @@
     <file name="u851-4.png" crc="4222162758" ref="retroarch"/>
     <file name="u869-4.png" crc="113713511" ref="retroarch"/>
     <file name="u870-13.png" crc="3941937528" ref="retroarch"/>
-    <file name="u872-14.png" crc="477983227" ref="retroarch"/>
+    <file name="u872-14.png" crc="3921016547" ref="retroarch"/>
     <file name="how to install.jpg" crc="3960048851" ref="retroarch:gba4ios-2.0:gba4ios-1.6:cloud-player:idos-date:idos-patch:nds4ios:gridlee:gearboy:sios:itransmission:snes4ios:nescaline:nestopia"/>
     <file name="u854-4.png" crc="222090570" ref="retroarch"/>
     <file name="u1519-4.png" crc="508277300" ref="date"/>
@@ -180,23 +195,17 @@
     <file name="u2357-13.png" crc="3941937528" ref="nescaline"/>
     <file name="u2336-14.png" crc="3777174120" ref="nescaline"/>
     <file name="u2331-4.png" crc="222090570" ref="nescaline"/>
-    <file name="nja top bar.jpg" crc="4199844455" ref="index:jailbreak-alt-store:info:hall-of-fame"/>
-    <file name="iphone4links.jpg" crc="415558212" ref="index:jailbreak-alt-store:iphone-4-links:deadapps:hall-of-fame"/>
-    <file name="u2817-5.png" crc="3899059641" ref="index"/>
-    <file name="bottom bar.png" crc="165037042" ref="index:jailbreak-alt-store:info:deadapps:hall-of-fame"/>
-    <file name="nojailbreaktab.png" crc="314458484" ref="index:hall-of-fame"/>
-    <file name="jailbreaktab.png" crc="4022480902" ref="jailbreak-alt-store:iphone-4-links"/>
-    <file name="deadappstab.png" crc="4269760700" ref="index:jailbreak-alt-store:info:iphone-4-links:hall-of-fame"/>
-    <file name="infotab.png" crc="3995611941" ref="index:jailbreak-alt-store:iphone-4-links:deadapps:hall-of-fame"/>
-    <file name="u4367-4.png" crc="4236105079" ref="index"/>
-    <file name="u4374-4.png" crc="4057725518" ref="index"/>
-    <file name="u4369-4.png" crc="127856259" ref="index"/>
     <file name="u3106-8.png" crc="4038752478" ref="jailbreak-alt-store"/>
     <file name="u3034-5.png" crc="3899059641" ref="jailbreak-alt-store"/>
+    <file name="nojailbreaktab2.png" crc="314458484" ref="jailbreak-alt-store:info:iphone-4-links:deadapps"/>
+    <file name="jailbreaktab.png" crc="4022480902" ref="jailbreak-alt-store:iphone-4-links"/>
     <file name="u3008-4.png" crc="4236105079" ref="jailbreak-alt-store"/>
     <file name="u3014-4.png" crc="3835303454" ref="jailbreak-alt-store"/>
     <file name="u4150-4.png" crc="4057725518" ref="jailbreak-alt-store"/>
     <file name="u3009-4.png" crc="127856259" ref="jailbreak-alt-store"/>
+    <file name="u4403-77.png" crc="4076004761" ref="info"/>
+    <file name="u3214-13.png" crc="4196261778" ref="info"/>
+    <file name="infotab2.png" crc="3995611941" ref="info"/>
     <file name="u4391-4.png" crc="4236105079" ref="info"/>
     <file name="u4392-4.png" crc="4259649560" ref="info"/>
     <file name="u4398-4.png" crc="4057725518" ref="info"/>
@@ -223,8 +232,6 @@
     <file name="u4158-4.png" crc="4236105079" ref="deadapps"/>
     <file name="u4164-4.png" crc="4259649560" ref="deadapps"/>
     <file name="u4159-4.png" crc="127856259" ref="deadapps"/>
-    <file name="award tab.png" crc="4185924799" ref="index:info:deadapps:hall-of-fame"/>
-    <file name="u4433-4.png" crc="4042946570" ref="index"/>
     <file name="u4563-7.png" crc="4158976804" ref="hall-of-fame"/>
     <file name="u4632-4.png" crc="4070024217" ref="hall-of-fame"/>
     <file name="u4490-5.png" crc="3899059641" ref="hall-of-fame"/>
@@ -232,32 +239,32 @@
     <file name="u4460-4.png" crc="4057725518" ref="hall-of-fame"/>
     <file name="u4459-4.png" crc="4042946570" ref="hall-of-fame"/>
     <file name="u4471-4.png" crc="127856259" ref="hall-of-fame"/>
-    <file name="u3214-13.png" crc="4196261778" ref="info"/>
-    <file name="nojailbreaktab2.png" crc="314458484" ref="jailbreak-alt-store:info:iphone-4-links:deadapps"/>
-    <file name="infotab2.png" crc="3995611941" ref="info"/>
-    <file name="u4403-77.png" crc="4076004761" ref="info"/>
+    <file name="u4736-4.png" crc="3998060020" ref="edit-nja"/>
+    <file name="u4735-46.png" crc="3840471117" ref="edit-nja"/>
+    <file name="u4754-4.png" crc="222090570" ref="edit-nja"/>
   </folder>
-  <file name="index.html" crc="4292601090" mt="1397960145897" redirect="true"/>
-  <file name="retroarch.html" crc="358224419" mt="1397959758976" redirect="true"/>
-  <file name="date.html" crc="501824596" mt="1397951569327" redirect="true"/>
-  <file name="gba4ios-2.0.html" crc="4204521854" mt="1397951569329" redirect="true"/>
-  <file name="date-2014.html" crc="374500006" mt="1397951569330" redirect="true"/>
-  <file name="patch.html" crc="3760086850" mt="1397951569332" redirect="true"/>
-  <file name="gba4ios-1.6.html" crc="104534110" mt="1397959814372" redirect="true"/>
-  <file name="cloud-player.html" crc="4163959651" mt="1397959783677" redirect="true"/>
-  <file name="idos-date.html" crc="3815528975" mt="1397959931938" redirect="true"/>
-  <file name="idos-patch.html" crc="3878238571" mt="1397959996842" redirect="true"/>
-  <file name="nds4ios.html" crc="296928208" mt="1397951569345" redirect="true"/>
-  <file name="gridlee.html" crc="4226720289" mt="1397959901053" redirect="true"/>
-  <file name="gearboy.html" crc="3809798216" mt="1397959853380" redirect="true"/>
-  <file name="sios.html" crc="4122566786" mt="1397960126960" redirect="true"/>
-  <file name="itransmission.html" crc="86320243" mt="1397960036662" redirect="true"/>
-  <file name="snes4ios.html" crc="4265462967" mt="1397960170466" redirect="true"/>
-  <file name="nescaline.html" crc="3777511148" mt="1397960118380" redirect="true"/>
-  <file name="jailbreak-alt-store.html" crc="332876566" mt="1397951569362" redirect="true"/>
-  <file name="info.html" crc="246330493" mt="1397960295021" redirect="true"/>
-  <file name="iphone-4-links.html" crc="3967038319" mt="1397951569526" redirect="true"/>
-  <file name="deadapps.html" crc="491660519" mt="1397951569528" redirect="true"/>
-  <file name="hall-of-fame.html" crc="271361473" mt="1397951569530" redirect="true"/>
-  <file name="nestopia.html" crc="4155451628" mt="1397951576658" redirect="true"/>
+  <file name="index.html" crc="3774057537" mt="1401933664889" redirect="true"/>
+  <file name="retroarch.html" crc="460796705" mt="1401933664877" redirect="true"/>
+  <file name="date.html" crc="501824596" mt="1401933664887" redirect="true"/>
+  <file name="gba4ios-2.0.html" crc="4204521854" mt="1401933664874" redirect="true"/>
+  <file name="date-2014.html" crc="374500006" mt="1401933664884" redirect="true"/>
+  <file name="patch.html" crc="3760086850" mt="1401933664882" redirect="true"/>
+  <file name="gba4ios-1.6.html" crc="3929926329" mt="1401933664872" redirect="true"/>
+  <file name="cloud-player.html" crc="278153947" mt="1401933664870" redirect="true"/>
+  <file name="idos-date.html" crc="311082520" mt="1401933664868" redirect="true"/>
+  <file name="idos-patch.html" crc="4238284953" mt="1401933664865" redirect="true"/>
+  <file name="nds4ios.html" crc="296928208" mt="1401933664863" redirect="true"/>
+  <file name="gridlee.html" crc="3885486433" mt="1401933664861" redirect="true"/>
+  <file name="gearboy.html" crc="3775735915" mt="1401933664859" redirect="true"/>
+  <file name="sios.html" crc="4245057893" mt="1401933664856" redirect="true"/>
+  <file name="itransmission.html" crc="4291687268" mt="1401933664854" redirect="true"/>
+  <file name="snes4ios.html" crc="4196480198" mt="1401933664851" redirect="true"/>
+  <file name="nescaline.html" crc="3978352664" mt="1401933664849" redirect="true"/>
+  <file name="jailbreak-alt-store.html" crc="441988457" mt="1401933664837" redirect="true"/>
+  <file name="info.html" crc="295730770" mt="1413502248754" redirect="true"/>
+  <file name="nestopia.html" crc="4155451628" mt="1401933664832" redirect="true"/>
+  <file name="iphone-4-links.html" crc="458212363" mt="1401933664840" redirect="true"/>
+  <file name="deadapps.html" crc="4220043741" mt="1401933664843" redirect="true"/>
+  <file name="hall-of-fame.html" crc="506114350" mt="1401933664846" redirect="true"/>
+  <file name="edit-nja.html" crc="269566077" mt="1401933664880" redirect="true"/>
 </manifest>
